@@ -1,0 +1,168 @@
+/***************************************************************************** TAGS  *****************************************************************************/
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 18px;
+  margin: 0;
+}
+
+h1 {
+  font-family: 'Poppins', sans-serif;
+  font-size: 2.75rem;
+}
+
+h2 {
+  font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+  font-family: 'Poppins', sans-serif;
+}
+
+p {
+  line-height: 2;
+}
+/***************************************************************************** CLASSES  *****************************************************************************/
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  margin-top: 400px;
+  position: relative;
+}
+
+.attribution a {
+  color: hsl(228, 45%, 44%);
+}
+
+/* Top Container CSS */
+.top-container {
+  background-color: hsl(193, 100%, 96%);
+  margin: 0 0 130px 0;
+  padding: 100px 0 10px 0;
+}
+
+.logo {
+  margin: 50px 0 20px 100px;
+  float: left;
+}
+
+.try-btn {
+  margin: 60px 0 20px 1200px;
+}
+
+.top-container-logo {
+  margin-bottom: 100px;
+}
+
+.top-huddle-info {
+  margin: 100px 100px 100px 100px;
+  overflow: auto;
+}
+
+.top-huddle-welcome {
+  margin-top: 100px;
+  width: 30%;
+}
+
+.top-huddle-description {
+  width: 35%;
+}
+
+.top-img {
+  float: right;
+  width: 45%;
+  margin-right: 170px;
+}
+
+/* Middle Container CSS */
+.middle-container {
+  padding: 100px 0 10px 0;
+}
+
+.mid-description {
+  background-color: white;
+  border-radius: 15px;
+  padding: 20px;
+  overflow: auto;
+  margin: 30px auto 30px auto;
+  box-shadow: -10px 10px 5px #f0f5f9;
+  border: solid 1px #c9d6df;
+  width: 75%;
+}
+
+.desrciption-imgs-right {
+  float: right;
+  width: 45%;
+}
+
+.desrciption-imgs-left {
+  float: left;
+  width: 45%;
+}
+
+.description-heading-left {
+  margin: 170px 0 0 80px;
+}
+
+.description-heading-right {
+  margin: 170px auto auto 800px;
+}
+
+.descriptions-right {
+  margin: auto auto auto 800px;
+  width: 40%;
+}
+
+.descriptions-left {
+  margin: auto auto auto 80px;
+  width: 40%;
+}
+
+.ready-to-build {
+  background-color: white;
+  margin: 100px auto 100px auto;
+  padding: 100px;
+  width: 30%;
+  border-radius: 15px;
+  border: solid 1px #c9d6df;
+  float: auto;
+}
+
+.ready-to-build-heading {
+  margin: auto;
+  width: 80%;
+}
+
+.ready-to-build-button {
+  margin: 40px 0 10px 35%;
+}
+
+/* Bottom Container CSS */
+
+.bottom-container {
+  background-color: hsl(192, 100%, 9%);
+  margin: -250px 0 40px 0;
+  padding: 250px 0 20px 200px;
+  position: absolute;
+  z-index: -1;
+  width: 100%;
+  color: white;
+}
+
+.bottom-container p {
+  width: 20%;
+  clear: right;
+}
+
+.bottom-container-links {
+  margin-left: 500px;
+}
+
+
+.bottom-container-links a {
+  text-decoration: none;
+  color: white;
+  padding: 0 0 0 20px;
+}
+
+/***************************************************************************** ID's  *****************************************************************************/
